@@ -1,0 +1,17 @@
+*{
+    color: rgba(61, 60, 59, 0.863);
+}
+
+.legenda{
+    font-size: 35px;
+}
+
+form{
+     margin: 0 auto;
+     width: 300px;
+     padding: 1em;
+     border: 1px solid #CCC;
+     border-radius: 1em;
+     margin-top: 1em;
+     background-color: rgba(130, 136, 128, 0.466);
+}
